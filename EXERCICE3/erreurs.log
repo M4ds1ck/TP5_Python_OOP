@@ -1,0 +1,4 @@
+2025-11-30 14:58:20,668 ERROR Fichier introuvable: file_not_exists.csv
+2025-11-30 14:58:20,680 ERROR Prix non numérique ligne 1: abc
+2025-11-30 14:58:20,692 ERROR Prix négatif ou nul ligne 1: -2.5
+2025-11-30 14:58:20,703 ERROR Ligne invalide (colonnes) ligne 1: 1;Stylo
